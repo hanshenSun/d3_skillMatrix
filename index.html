@@ -1,65 +1,5 @@
+
 <!DOCTYPE html>
-<head>
-  <meta charset="utf-8">
-  <script src="https://d3js.org/d3.v4.min.js"></script>
-  <style>
-    body { margin:0;position:fixed;top:0;right:0;bottom:0;left:0; }
-  </style>
-</head>
-
-<body>
-  <script>
-    var dataArray = [10,20,30,40,50,60];   
-    dataArray.shift();
-    dataArray.sort(d3.descending);
-    
-    var width = 500;
-    var height = 500;
-    
-    var widthScale = d3.scaleLinear()
-    	.domain([0,60])
-    	.range([0, width]);
-    var color = d3.scaleLinear().domain([0,60]).range(["red", "blue"]);
-    
-    var axis = d3.axisTop().scale(widthScale);
-    
-    var canvas = d3.select("body")
-                    .append("svg")
-                    .attr("width", 600)
-                    .attr("height", 600)
-    		    .append("g") // grouping
-    		    .attr("transform", "translate(50,50)");
-    
-    var ciecle1 = canvas.append("circle")
-                    .attr("cx", 50)
-                    .attr("cy", 50)
-                    .attr("r", 25);
-    
-    var ciecle = canvas.append("circle")
-                    .attr("cx", 150)
-                    .attr("cy", 150)
-                    .attr("r", 25);
-    
-    var nars = canvas.selectAll("circle")
-    								.data(dataArray)
-    								.attr("fill", "red")
-    								.attr("r", function(d){return d})
-                    .exit()
-    									.attr("fill", "blue");
-
-    
-    canvas.append("g")
-    				.attr("transform", "translate(0,300)")
-      			.call(axis);
-    
-    
-
-    										
-    
-
-  </script>
-</body>
-=======
 <meta charset="utf-8">
 <style>
 
@@ -92,21 +32,24 @@
 <svg width="960" height="960"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
-  
+
 var format = d3.format(",d");
 var stratify = d3.stratify()
     .parentId(function(d) { return d.id.substring(0, d.id.lastIndexOf(".")); });
+
 
 var svg = d3.select("svg"),
     margin = 20,
     diameter = +svg.attr("width"),
     g = svg.append("g").attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
 
+
 var color = d3.scaleLinear()
     .domain([-1, 5])
     .range(["rgb(255,255,255)", "rgb(112,243,255)"])
     .interpolate(d3.interpolateRgb);
-  
+
+
 var colorBall = d3.scaleLinear()
     .domain([0.5, 5])
     .range(["white", "rgb(0,219,73)"])
@@ -121,23 +64,12 @@ var pack = d3.pack()
 
 d3.csv("Github_skills.csv", function(error, root) {
   if (error) throw error;
-  
-//   root = root.filter(function(d) {
-//     if (d.value == 1)
-//     {
-//       return false;
-//     }
-//     d.value = parseInt(d.value);
-//   })
 
-//   root = d3.hierarchy(root)
-//       .sum(function(d) { return d.size; })
-//       .sort(function(a, b) { return b.value - a.value; });
-  
+
   var root = stratify(root)
       .sum(function(d) { return d.value; })
       .sort(function(a, b) { return b.value - a.value; });
-  
+
 
   var focus = root,
       nodes = pack(root).descendants(),
@@ -146,25 +78,19 @@ d3.csv("Github_skills.csv", function(error, root) {
   var circle = g.selectAll("circle")
     .data(nodes)
     .enter().append("circle")
-  		//.attr("r", function(d) {return d.r*100})
   		.attr("fill-opacity", function(d){return (d.depth ==0) ? 0:0.5})
   		.attr("opacity", function(d) {return (d.depth ==3) ? (d.value <2) ? 0: 1 : 1})//getting rid of value 1
-  
+
   		.attr("stroke", "#00a3a3")
   		.attr("stroke-width",function(d){return (d.depth ==3) ? 0: 0.5})
       .attr("class", function(d) { return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; })
-      //.style("fill", function(d) { return d.children ? color(d.depth) : null; })
   		.style("fill", function(d) { return (d.depth == 3) ? colorBall(d.value) : color(d.depth)})
       .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
-  
-  
-//   circle.append("title")
-//   	.text(function(d) {return (d.depth == 4) ? d.id.substring(d.id.lastIndexOf(".")+1) + "\n" + format(d.value) : null});
-  
+
+
     svg.selectAll("circle").append("title")
-//   	.text(function(d) {return d.id.substring(d.id.lastIndexOf(".")+1) + "\n" + format(d.id.substring)
     .text(function(d) {return d.id.substring(d.id.lastIndexOf(".")+1)});
-      	      
+
 
   var text = g.selectAll("text")
     .data(nodes)
@@ -174,30 +100,26 @@ d3.csv("Github_skills.csv", function(error, root) {
   		.style("font-weight", function(d) {return (d.depth <2) ? "bold": "regular"})
       .style("fill-opacity", function(d) { return d.parent === root ? 1 : 0; })
       .style("display", function(d) { return d.parent === root ? "inline" : "none"; })
-//       .text(function(d) { return d.id.substring(d.id.lastIndexOf(".")+1) })
   		.text(function(d) { return (d.depth == 3) ? d.id.substring(d.id.lastIndexOf(".")+1) + "\n" + d.value : d.id.substring(d.id.lastIndexOf(".")+1) })
-//   		.text(function(d) { return d.depth })
-//   		.text(function(d) { return d.value })
-  	.attr("opacity", function(d) {return (d.depth ==3) ? (d.value <2) ? 0: 1 : 1});
-  
+  	   .attr("opacity", function(d) {return (d.depth ==3) ? (d.value <2) ? 0: 1 : 1});
 
-  
-  
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
+
+
+
   var node = g.selectAll("circle,text");
 
-   
-  
-  svg
-//       .style("background", color(-1))
-      .on("click", function() { zoom(root); });
+
+
+  svg.on("click", function() { zoom(root); });
 
   zoomTo([root.x, root.y, root.r * 2 + margin]);
+
 
   function zoom(d) {
     var focus0 = focus; focus = d;
@@ -215,6 +137,7 @@ d3.csv("Github_skills.csv", function(error, root) {
         .on("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
         .on("end", function(d) { if (d.parent !== focus) this.style.display = "inline"; });
   }
+  
 
   function zoomTo(v) {
     var k = diameter / v[2]; view = v;
@@ -224,4 +147,3 @@ d3.csv("Github_skills.csv", function(error, root) {
 });
 
 </script>
->>>>>>> parent of daeec4b... changing source file directory
