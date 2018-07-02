@@ -1,0 +1,968 @@
+id,value
+CORE,
+CORE.Modeling Knowledge,
+CORE.Modeling Knowledge.Rhino,
+CORE.Modeling Knowledge.Rhino.Robert Otani,3
+CORE.Modeling Knowledge.Rhino.Shannon McMullan,1
+CORE.Modeling Knowledge.Rhino.Nick Mundell,5
+CORE.Modeling Knowledge.Rhino.Daniel Segraves,5
+CORE.Modeling Knowledge.Rhino.Hiram Rodriguez,5
+CORE.Modeling Knowledge.Rhino.Serena Li,4
+CORE.Modeling Knowledge.Rhino.Leland Jobson,5
+CORE.Modeling Knowledge.Rhino.Richard Schmitt,5
+CORE.Modeling Knowledge.Rhino.Hanshen Sun,5
+CORE.Modeling Knowledge.Rhino.Sergey Pigach,5
+CORE.Modeling Knowledge.Rhino.Ben Howes,5
+CORE.Modeling Knowledge.Rhino.David Mans,5
+CORE.Modeling Knowledge.Rhino.Charles Portelli,5
+CORE.Modeling Knowledge.Rhino.Elcin Ertugrul,5
+CORE.Modeling Knowledge.Rhino.Mike Kero,4
+CORE.Modeling Knowledge.Rhino.Kenny Tam,3
+CORE.Modeling Knowledge.Rhino.Dan Reynolds,4
+CORE.Modeling Knowledge.Rhino.Margaret Wang,2
+CORE.Modeling Knowledge.Rhino.Emil Poulsen,5
+CORE.Modeling Knowledge.Grasshopper,
+CORE.Modeling Knowledge.Grasshopper.Robert Otani,2
+CORE.Modeling Knowledge.Grasshopper.Shannon McMullan,1
+CORE.Modeling Knowledge.Grasshopper.Nick Mundell,5
+CORE.Modeling Knowledge.Grasshopper.Daniel Segraves,5
+CORE.Modeling Knowledge.Grasshopper.Hiram Rodriguez,5
+CORE.Modeling Knowledge.Grasshopper.Serena Li,4
+CORE.Modeling Knowledge.Grasshopper.Leland Jobson,5
+CORE.Modeling Knowledge.Grasshopper.Richard Schmitt,5
+CORE.Modeling Knowledge.Grasshopper.Hanshen Sun,5
+CORE.Modeling Knowledge.Grasshopper.Sergey Pigach,5
+CORE.Modeling Knowledge.Grasshopper.Ben Howes,5
+CORE.Modeling Knowledge.Grasshopper.David Mans,5
+CORE.Modeling Knowledge.Grasshopper.Charles Portelli,5
+CORE.Modeling Knowledge.Grasshopper.Elcin Ertugrul,5
+CORE.Modeling Knowledge.Grasshopper.Mike Kero,4
+CORE.Modeling Knowledge.Grasshopper.Kenny Tam,3
+CORE.Modeling Knowledge.Grasshopper.Dan Reynolds,4
+CORE.Modeling Knowledge.Grasshopper.Margaret Wang,2
+CORE.Modeling Knowledge.Grasshopper.Emil Poulsen,5
+CORE.Modeling Knowledge.Dynamo,
+CORE.Modeling Knowledge.Dynamo.Robert Otani,1
+CORE.Modeling Knowledge.Dynamo.Shannon McMullan,1
+CORE.Modeling Knowledge.Dynamo.Nick Mundell,4
+CORE.Modeling Knowledge.Dynamo.Daniel Segraves,4
+CORE.Modeling Knowledge.Dynamo.Hiram Rodriguez,5
+CORE.Modeling Knowledge.Dynamo.Serena Li,1
+CORE.Modeling Knowledge.Dynamo.Leland Jobson,1
+CORE.Modeling Knowledge.Dynamo.Richard Schmitt,5
+CORE.Modeling Knowledge.Dynamo.Hanshen Sun,4
+CORE.Modeling Knowledge.Dynamo.Sergey Pigach,1
+CORE.Modeling Knowledge.Dynamo.Ben Howes,2
+CORE.Modeling Knowledge.Dynamo.David Mans,3
+CORE.Modeling Knowledge.Dynamo.Charles Portelli,4
+CORE.Modeling Knowledge.Dynamo.Elcin Ertugrul,4
+CORE.Modeling Knowledge.Dynamo.Mike Kero,4
+CORE.Modeling Knowledge.Dynamo.Kenny Tam,2
+CORE.Modeling Knowledge.Dynamo.Dan Reynolds,2
+CORE.Modeling Knowledge.Dynamo.Margaret Wang,1
+CORE.Modeling Knowledge.Dynamo.Emil Poulsen,2
+CORE.Modeling Knowledge.ETABS,
+CORE.Modeling Knowledge.ETABS.Robert Otani,2
+CORE.Modeling Knowledge.ETABS.Shannon McMullan,1
+CORE.Modeling Knowledge.ETABS.Nick Mundell,4
+CORE.Modeling Knowledge.ETABS.Daniel Segraves,4
+CORE.Modeling Knowledge.ETABS.Hiram Rodriguez,4
+CORE.Modeling Knowledge.ETABS.Serena Li,1
+CORE.Modeling Knowledge.ETABS.Leland Jobson,1
+CORE.Modeling Knowledge.ETABS.Richard Schmitt,2
+CORE.Modeling Knowledge.ETABS.Hanshen Sun,1
+CORE.Modeling Knowledge.ETABS.Sergey Pigach,1
+CORE.Modeling Knowledge.ETABS.Ben Howes,1
+CORE.Modeling Knowledge.ETABS.David Mans,1
+CORE.Modeling Knowledge.ETABS.Charles Portelli,2
+CORE.Modeling Knowledge.ETABS.Elcin Ertugrul,4
+CORE.Modeling Knowledge.ETABS.Mike Kero,2
+CORE.Modeling Knowledge.ETABS.Kenny Tam,4
+CORE.Modeling Knowledge.ETABS.Dan Reynolds,4
+CORE.Modeling Knowledge.ETABS.Margaret Wang,4
+CORE.Modeling Knowledge.ETABS.Emil Poulsen,3
+CORE.Modeling Knowledge.SAP,
+CORE.Modeling Knowledge.SAP.Robert Otani,4
+CORE.Modeling Knowledge.SAP.Shannon McMullan,1
+CORE.Modeling Knowledge.SAP.Nick Mundell,4
+CORE.Modeling Knowledge.SAP.Daniel Segraves,4
+CORE.Modeling Knowledge.SAP.Hiram Rodriguez,4
+CORE.Modeling Knowledge.SAP.Serena Li,1
+CORE.Modeling Knowledge.SAP.Leland Jobson,1
+CORE.Modeling Knowledge.SAP.Richard Schmitt,2
+CORE.Modeling Knowledge.SAP.Hanshen Sun,1
+CORE.Modeling Knowledge.SAP.Sergey Pigach,1
+CORE.Modeling Knowledge.SAP.Ben Howes,1
+CORE.Modeling Knowledge.SAP.David Mans,1
+CORE.Modeling Knowledge.SAP.Charles Portelli,1
+CORE.Modeling Knowledge.SAP.Elcin Ertugrul,4
+CORE.Modeling Knowledge.SAP.Mike Kero,2
+CORE.Modeling Knowledge.SAP.Kenny Tam,4
+CORE.Modeling Knowledge.SAP.Dan Reynolds,4
+CORE.Modeling Knowledge.SAP.Margaret Wang,4
+CORE.Modeling Knowledge.SAP.Emil Poulsen,3
+CORE.Modeling Knowledge.Revit,
+CORE.Modeling Knowledge.Revit.Robert Otani,4
+CORE.Modeling Knowledge.Revit.Shannon McMullan,1
+CORE.Modeling Knowledge.Revit.Nick Mundell,5
+CORE.Modeling Knowledge.Revit.Daniel Segraves,3
+CORE.Modeling Knowledge.Revit.Hiram Rodriguez,5
+CORE.Modeling Knowledge.Revit.Serena Li,2
+CORE.Modeling Knowledge.Revit.Leland Jobson,4
+CORE.Modeling Knowledge.Revit.Richard Schmitt,5
+CORE.Modeling Knowledge.Revit.Hanshen Sun,3
+CORE.Modeling Knowledge.Revit.Sergey Pigach,2
+CORE.Modeling Knowledge.Revit.Ben Howes,2
+CORE.Modeling Knowledge.Revit.David Mans,4
+CORE.Modeling Knowledge.Revit.Charles Portelli,4
+CORE.Modeling Knowledge.Revit.Elcin Ertugrul,4
+CORE.Modeling Knowledge.Revit.Mike Kero,5
+CORE.Modeling Knowledge.Revit.Kenny Tam,4
+CORE.Modeling Knowledge.Revit.Dan Reynolds,2
+CORE.Modeling Knowledge.Revit.Margaret Wang,4
+CORE.Modeling Knowledge.Revit.Emil Poulsen,2
+CORE.Modeling Knowledge.Strand,
+CORE.Modeling Knowledge.Strand.Robert Otani,2
+CORE.Modeling Knowledge.Strand.Shannon McMullan,1
+CORE.Modeling Knowledge.Strand.Nick Mundell,1
+CORE.Modeling Knowledge.Strand.Daniel Segraves,3
+CORE.Modeling Knowledge.Strand.Hiram Rodriguez,2
+CORE.Modeling Knowledge.Strand.Serena Li,1
+CORE.Modeling Knowledge.Strand.Leland Jobson,1
+CORE.Modeling Knowledge.Strand.Richard Schmitt,1
+CORE.Modeling Knowledge.Strand.Hanshen Sun,1
+CORE.Modeling Knowledge.Strand.Sergey Pigach,1
+CORE.Modeling Knowledge.Strand.Ben Howes,1
+CORE.Modeling Knowledge.Strand.David Mans,1
+CORE.Modeling Knowledge.Strand.Charles Portelli,1
+CORE.Modeling Knowledge.Strand.Elcin Ertugrul,1
+CORE.Modeling Knowledge.Strand.Mike Kero,1
+CORE.Modeling Knowledge.Strand.Kenny Tam,1
+CORE.Modeling Knowledge.Strand.Dan Reynolds,5
+CORE.Modeling Knowledge.Strand.Margaret Wang,1
+CORE.Modeling Knowledge.Strand.Emil Poulsen,3
+CORE.Modeling Knowledge.Konstru,
+CORE.Modeling Knowledge.Konstru.Robert Otani,2
+CORE.Modeling Knowledge.Konstru.Shannon McMullan,1
+CORE.Modeling Knowledge.Konstru.Nick Mundell,5
+CORE.Modeling Knowledge.Konstru.Daniel Segraves,4
+CORE.Modeling Knowledge.Konstru.Hiram Rodriguez,4
+CORE.Modeling Knowledge.Konstru.Serena Li,2
+CORE.Modeling Knowledge.Konstru.Leland Jobson,3
+CORE.Modeling Knowledge.Konstru.Richard Schmitt,4
+CORE.Modeling Knowledge.Konstru.Hanshen Sun,4
+CORE.Modeling Knowledge.Konstru.Sergey Pigach,1
+CORE.Modeling Knowledge.Konstru.Ben Howes,2
+CORE.Modeling Knowledge.Konstru.David Mans,1
+CORE.Modeling Knowledge.Konstru.Charles Portelli,3
+CORE.Modeling Knowledge.Konstru.Elcin Ertugrul,5
+CORE.Modeling Knowledge.Konstru.Mike Kero,4
+CORE.Modeling Knowledge.Konstru.Kenny Tam,5
+CORE.Modeling Knowledge.Konstru.Dan Reynolds,1
+CORE.Modeling Knowledge.Konstru.Margaret Wang,2
+CORE.Modeling Knowledge.Konstru.Emil Poulsen,5
+CORE.Modeling Knowledge.Autocad,
+CORE.Modeling Knowledge.Autocad.Robert Otani,5
+CORE.Modeling Knowledge.Autocad.Shannon McMullan,1
+CORE.Modeling Knowledge.Autocad.Nick Mundell,1
+CORE.Modeling Knowledge.Autocad.Daniel Segraves,4
+CORE.Modeling Knowledge.Autocad.Hiram Rodriguez,2
+CORE.Modeling Knowledge.Autocad.Serena Li,4
+CORE.Modeling Knowledge.Autocad.Leland Jobson,2
+CORE.Modeling Knowledge.Autocad.Richard Schmitt,1
+CORE.Modeling Knowledge.Autocad.Hanshen Sun,3
+CORE.Modeling Knowledge.Autocad.Sergey Pigach,4
+CORE.Modeling Knowledge.Autocad.Ben Howes,1
+CORE.Modeling Knowledge.Autocad.David Mans,5
+CORE.Modeling Knowledge.Autocad.Charles Portelli,3
+CORE.Modeling Knowledge.Autocad.Elcin Ertugrul,4
+CORE.Modeling Knowledge.Autocad.Mike Kero,2
+CORE.Modeling Knowledge.Autocad.Kenny Tam,3
+CORE.Modeling Knowledge.Autocad.Dan Reynolds,2
+CORE.Modeling Knowledge.Autocad.Margaret Wang,2
+CORE.Modeling Knowledge.Autocad.Emil Poulsen,4
+CORE.Modeling Knowledge.Tekla,
+CORE.Modeling Knowledge.Tekla.Robert Otani,2
+CORE.Modeling Knowledge.Tekla.Shannon McMullan,1
+CORE.Modeling Knowledge.Tekla.Nick Mundell,4
+CORE.Modeling Knowledge.Tekla.Daniel Segraves,2
+CORE.Modeling Knowledge.Tekla.Hiram Rodriguez,2
+CORE.Modeling Knowledge.Tekla.Serena Li,1
+CORE.Modeling Knowledge.Tekla.Leland Jobson,1
+CORE.Modeling Knowledge.Tekla.Richard Schmitt,4
+CORE.Modeling Knowledge.Tekla.Hanshen Sun,1
+CORE.Modeling Knowledge.Tekla.Sergey Pigach,1
+CORE.Modeling Knowledge.Tekla.Ben Howes,1
+CORE.Modeling Knowledge.Tekla.David Mans,1
+CORE.Modeling Knowledge.Tekla.Charles Portelli,1
+CORE.Modeling Knowledge.Tekla.Elcin Ertugrul,1
+CORE.Modeling Knowledge.Tekla.Mike Kero,4
+CORE.Modeling Knowledge.Tekla.Kenny Tam,4
+CORE.Modeling Knowledge.Tekla.Dan Reynolds,2
+CORE.Modeling Knowledge.Tekla.Margaret Wang,1
+CORE.Modeling Knowledge.Tekla.Emil Poulsen,1
+CORE.Programming Knowledge,
+CORE.Programming Knowledge.MEAN,
+CORE.Programming Knowledge.MEAN.Robert Otani,1
+CORE.Programming Knowledge.MEAN.Shannon McMullan,1
+CORE.Programming Knowledge.MEAN.Nick Mundell,1
+CORE.Programming Knowledge.MEAN.Daniel Segraves,2
+CORE.Programming Knowledge.MEAN.Hiram Rodriguez,1
+CORE.Programming Knowledge.MEAN.Serena Li,5
+CORE.Programming Knowledge.MEAN.Leland Jobson,2
+CORE.Programming Knowledge.MEAN.Richard Schmitt,1
+CORE.Programming Knowledge.MEAN.Hanshen Sun,1
+CORE.Programming Knowledge.MEAN.Sergey Pigach,1
+CORE.Programming Knowledge.MEAN.Ben Howes,4
+CORE.Programming Knowledge.MEAN.David Mans,1
+CORE.Programming Knowledge.MEAN.Charles Portelli,1
+CORE.Programming Knowledge.MEAN.Elcin Ertugrul,4
+CORE.Programming Knowledge.MEAN.Mike Kero,3
+CORE.Programming Knowledge.MEAN.Kenny Tam,1
+CORE.Programming Knowledge.MEAN.Dan Reynolds,1
+CORE.Programming Knowledge.MEAN.Margaret Wang,4
+CORE.Programming Knowledge.MEAN.Emil Poulsen,2
+CORE.Programming Knowledge.SQL,
+CORE.Programming Knowledge.SQL.Robert Otani,1
+CORE.Programming Knowledge.SQL.Shannon McMullan,1
+CORE.Programming Knowledge.SQL.Nick Mundell,1
+CORE.Programming Knowledge.SQL.Daniel Segraves,3
+CORE.Programming Knowledge.SQL.Hiram Rodriguez,1
+CORE.Programming Knowledge.SQL.Serena Li,4
+CORE.Programming Knowledge.SQL.Leland Jobson,3
+CORE.Programming Knowledge.SQL.Richard Schmitt,1
+CORE.Programming Knowledge.SQL.Hanshen Sun,1
+CORE.Programming Knowledge.SQL.Sergey Pigach,2
+CORE.Programming Knowledge.SQL.Ben Howes,2
+CORE.Programming Knowledge.SQL.David Mans,1
+CORE.Programming Knowledge.SQL.Charles Portelli,2
+CORE.Programming Knowledge.SQL.Elcin Ertugrul,4
+CORE.Programming Knowledge.SQL.Mike Kero,2
+CORE.Programming Knowledge.SQL.Kenny Tam,4
+CORE.Programming Knowledge.SQL.Dan Reynolds,4
+CORE.Programming Knowledge.SQL.Margaret Wang,2
+CORE.Programming Knowledge.SQL.Emil Poulsen,3
+CORE.Programming Knowledge.C#,
+CORE.Programming Knowledge.C#.Robert Otani,1
+CORE.Programming Knowledge.C#.Shannon McMullan,1
+CORE.Programming Knowledge.C#.Nick Mundell,2
+CORE.Programming Knowledge.C#.Daniel Segraves,4
+CORE.Programming Knowledge.C#.Hiram Rodriguez,2
+CORE.Programming Knowledge.C#.Serena Li,4
+CORE.Programming Knowledge.C#.Leland Jobson,5
+CORE.Programming Knowledge.C#.Richard Schmitt,4
+CORE.Programming Knowledge.C#.Hanshen Sun,4
+CORE.Programming Knowledge.C#.Sergey Pigach,4
+CORE.Programming Knowledge.C#.Ben Howes,5
+CORE.Programming Knowledge.C#.David Mans,5
+CORE.Programming Knowledge.C#.Charles Portelli,4
+CORE.Programming Knowledge.C#.Elcin Ertugrul,5
+CORE.Programming Knowledge.C#.Mike Kero,5
+CORE.Programming Knowledge.C#.Kenny Tam,5
+CORE.Programming Knowledge.C#.Dan Reynolds,4
+CORE.Programming Knowledge.C#.Margaret Wang,3
+CORE.Programming Knowledge.C#.Emil Poulsen,5
+CORE.Programming Knowledge.VBA,
+CORE.Programming Knowledge.VBA.Robert Otani,1
+CORE.Programming Knowledge.VBA.Shannon McMullan,1
+CORE.Programming Knowledge.VBA.Nick Mundell,1
+CORE.Programming Knowledge.VBA.Daniel Segraves,4
+CORE.Programming Knowledge.VBA.Hiram Rodriguez,1
+CORE.Programming Knowledge.VBA.Serena Li,1
+CORE.Programming Knowledge.VBA.Leland Jobson,2
+CORE.Programming Knowledge.VBA.Richard Schmitt,3
+CORE.Programming Knowledge.VBA.Hanshen Sun,1
+CORE.Programming Knowledge.VBA.Sergey Pigach,1
+CORE.Programming Knowledge.VBA.Ben Howes,2
+CORE.Programming Knowledge.VBA.David Mans,5
+CORE.Programming Knowledge.VBA.Charles Portelli,3
+CORE.Programming Knowledge.VBA.Elcin Ertugrul,2
+CORE.Programming Knowledge.VBA.Mike Kero,3
+CORE.Programming Knowledge.VBA.Kenny Tam,3
+CORE.Programming Knowledge.VBA.Dan Reynolds,2
+CORE.Programming Knowledge.VBA.Margaret Wang,1
+CORE.Programming Knowledge.VBA.Emil Poulsen,4
+CORE.Programming Knowledge.CSS,
+CORE.Programming Knowledge.CSS.Robert Otani,1
+CORE.Programming Knowledge.CSS.Shannon McMullan,2
+CORE.Programming Knowledge.CSS.Nick Mundell,1
+CORE.Programming Knowledge.CSS.Daniel Segraves,3
+CORE.Programming Knowledge.CSS.Hiram Rodriguez,1
+CORE.Programming Knowledge.CSS.Serena Li,5
+CORE.Programming Knowledge.CSS.Leland Jobson,4
+CORE.Programming Knowledge.CSS.Richard Schmitt,2
+CORE.Programming Knowledge.CSS.Hanshen Sun,1
+CORE.Programming Knowledge.CSS.Sergey Pigach,3
+CORE.Programming Knowledge.CSS.Ben Howes,4
+CORE.Programming Knowledge.CSS.David Mans,2
+CORE.Programming Knowledge.CSS.Charles Portelli,2
+CORE.Programming Knowledge.CSS.Elcin Ertugrul,3
+CORE.Programming Knowledge.CSS.Mike Kero,2
+CORE.Programming Knowledge.CSS.Kenny Tam,2
+CORE.Programming Knowledge.CSS.Dan Reynolds,2
+CORE.Programming Knowledge.CSS.Margaret Wang,4
+CORE.Programming Knowledge.CSS.Emil Poulsen,3
+CORE.Programming Knowledge.HTML,
+CORE.Programming Knowledge.HTML.Robert Otani,1
+CORE.Programming Knowledge.HTML.Shannon McMullan,2
+CORE.Programming Knowledge.HTML.Nick Mundell,2
+CORE.Programming Knowledge.HTML.Daniel Segraves,3
+CORE.Programming Knowledge.HTML.Hiram Rodriguez,1
+CORE.Programming Knowledge.HTML.Serena Li,5
+CORE.Programming Knowledge.HTML.Leland Jobson,4
+CORE.Programming Knowledge.HTML.Richard Schmitt,2
+CORE.Programming Knowledge.HTML.Hanshen Sun,1
+CORE.Programming Knowledge.HTML.Sergey Pigach,3
+CORE.Programming Knowledge.HTML.Ben Howes,4
+CORE.Programming Knowledge.HTML.David Mans,2
+CORE.Programming Knowledge.HTML.Charles Portelli,2
+CORE.Programming Knowledge.HTML.Elcin Ertugrul,4
+CORE.Programming Knowledge.HTML.Mike Kero,2
+CORE.Programming Knowledge.HTML.Kenny Tam,2
+CORE.Programming Knowledge.HTML.Dan Reynolds,2
+CORE.Programming Knowledge.HTML.Margaret Wang,4
+CORE.Programming Knowledge.HTML.Emil Poulsen,3
+CORE.Programming Knowledge.Javascript,
+CORE.Programming Knowledge.Javascript.Robert Otani,1
+CORE.Programming Knowledge.Javascript.Shannon McMullan,1
+CORE.Programming Knowledge.Javascript.Nick Mundell,1
+CORE.Programming Knowledge.Javascript.Daniel Segraves,4
+CORE.Programming Knowledge.Javascript.Hiram Rodriguez,1
+CORE.Programming Knowledge.Javascript.Serena Li,5
+CORE.Programming Knowledge.Javascript.Leland Jobson,4
+CORE.Programming Knowledge.Javascript.Richard Schmitt,2
+CORE.Programming Knowledge.Javascript.Hanshen Sun,2
+CORE.Programming Knowledge.Javascript.Sergey Pigach,3
+CORE.Programming Knowledge.Javascript.Ben Howes,5
+CORE.Programming Knowledge.Javascript.David Mans,2
+CORE.Programming Knowledge.Javascript.Charles Portelli,3
+CORE.Programming Knowledge.Javascript.Elcin Ertugrul,4
+CORE.Programming Knowledge.Javascript.Mike Kero,4
+CORE.Programming Knowledge.Javascript.Kenny Tam,2
+CORE.Programming Knowledge.Javascript.Dan Reynolds,2
+CORE.Programming Knowledge.Javascript.Margaret Wang,4
+CORE.Programming Knowledge.Javascript.Emil Poulsen,4
+CORE.Programming Knowledge.Python,
+CORE.Programming Knowledge.Python.Robert Otani,1
+CORE.Programming Knowledge.Python.Shannon McMullan,1
+CORE.Programming Knowledge.Python.Nick Mundell,2
+CORE.Programming Knowledge.Python.Daniel Segraves,2
+CORE.Programming Knowledge.Python.Hiram Rodriguez,2
+CORE.Programming Knowledge.Python.Serena Li,4
+CORE.Programming Knowledge.Python.Leland Jobson,4
+CORE.Programming Knowledge.Python.Richard Schmitt,4
+CORE.Programming Knowledge.Python.Hanshen Sun,3
+CORE.Programming Knowledge.Python.Sergey Pigach,5
+CORE.Programming Knowledge.Python.Ben Howes,2
+CORE.Programming Knowledge.Python.David Mans,3
+CORE.Programming Knowledge.Python.Charles Portelli,3
+CORE.Programming Knowledge.Python.Elcin Ertugrul,2
+CORE.Programming Knowledge.Python.Mike Kero,4
+CORE.Programming Knowledge.Python.Kenny Tam,1
+CORE.Programming Knowledge.Python.Dan Reynolds,5
+CORE.Programming Knowledge.Python.Margaret Wang,4
+CORE.Programming Knowledge.Python.Emil Poulsen,2
+CORE.API Knowledge (Development),
+CORE.API Knowledge (Development).Unity,
+CORE.API Knowledge (Development).Unity.Robert Otani,1
+CORE.API Knowledge (Development).Unity.Shannon McMullan,1
+CORE.API Knowledge (Development).Unity.Nick Mundell,1
+CORE.API Knowledge (Development).Unity.Daniel Segraves,2
+CORE.API Knowledge (Development).Unity.Hiram Rodriguez,1
+CORE.API Knowledge (Development).Unity.Serena Li,1
+CORE.API Knowledge (Development).Unity.Leland Jobson,1
+CORE.API Knowledge (Development).Unity.Richard Schmitt,1
+CORE.API Knowledge (Development).Unity.Hanshen Sun,1
+CORE.API Knowledge (Development).Unity.Sergey Pigach,1
+CORE.API Knowledge (Development).Unity.Ben Howes,1
+CORE.API Knowledge (Development).Unity.David Mans,1
+CORE.API Knowledge (Development).Unity.Charles Portelli,3
+CORE.API Knowledge (Development).Unity.Elcin Ertugrul,1
+CORE.API Knowledge (Development).Unity.Mike Kero,1
+CORE.API Knowledge (Development).Unity.Kenny Tam,1
+CORE.API Knowledge (Development).Unity.Dan Reynolds,1
+CORE.API Knowledge (Development).Unity.Margaret Wang,1
+CORE.API Knowledge (Development).Unity.Emil Poulsen,1
+CORE.API Knowledge (Development).Rhino,
+CORE.API Knowledge (Development).Rhino.Robert Otani,1
+CORE.API Knowledge (Development).Rhino.Shannon McMullan,1
+CORE.API Knowledge (Development).Rhino.Nick Mundell,2
+CORE.API Knowledge (Development).Rhino.Daniel Segraves,5
+CORE.API Knowledge (Development).Rhino.Hiram Rodriguez,1
+CORE.API Knowledge (Development).Rhino.Serena Li,2
+CORE.API Knowledge (Development).Rhino.Leland Jobson,5
+CORE.API Knowledge (Development).Rhino.Richard Schmitt,2
+CORE.API Knowledge (Development).Rhino.Hanshen Sun,4
+CORE.API Knowledge (Development).Rhino.Sergey Pigach,5
+CORE.API Knowledge (Development).Rhino.Ben Howes,4
+CORE.API Knowledge (Development).Rhino.David Mans,5
+CORE.API Knowledge (Development).Rhino.Charles Portelli,4
+CORE.API Knowledge (Development).Rhino.Elcin Ertugrul,4
+CORE.API Knowledge (Development).Rhino.Mike Kero,4
+CORE.API Knowledge (Development).Rhino.Kenny Tam,4
+CORE.API Knowledge (Development).Rhino.Dan Reynolds,4
+CORE.API Knowledge (Development).Rhino.Margaret Wang,1
+CORE.API Knowledge (Development).Rhino.Emil Poulsen,5
+CORE.API Knowledge (Development).Grasshopper,
+CORE.API Knowledge (Development).Grasshopper.Robert Otani,1
+CORE.API Knowledge (Development).Grasshopper.Shannon McMullan,1
+CORE.API Knowledge (Development).Grasshopper.Nick Mundell,2
+CORE.API Knowledge (Development).Grasshopper.Daniel Segraves,5
+CORE.API Knowledge (Development).Grasshopper.Hiram Rodriguez,2
+CORE.API Knowledge (Development).Grasshopper.Serena Li,2
+CORE.API Knowledge (Development).Grasshopper.Leland Jobson,4
+CORE.API Knowledge (Development).Grasshopper.Richard Schmitt,2
+CORE.API Knowledge (Development).Grasshopper.Hanshen Sun,4
+CORE.API Knowledge (Development).Grasshopper.Sergey Pigach,5
+CORE.API Knowledge (Development).Grasshopper.Ben Howes,5
+CORE.API Knowledge (Development).Grasshopper.David Mans,5
+CORE.API Knowledge (Development).Grasshopper.Charles Portelli,4
+CORE.API Knowledge (Development).Grasshopper.Elcin Ertugrul,5
+CORE.API Knowledge (Development).Grasshopper.Mike Kero,4
+CORE.API Knowledge (Development).Grasshopper.Kenny Tam,4
+CORE.API Knowledge (Development).Grasshopper.Dan Reynolds,4
+CORE.API Knowledge (Development).Grasshopper.Margaret Wang,1
+CORE.API Knowledge (Development).Grasshopper.Emil Poulsen,5
+CORE.API Knowledge (Development).Dynamo,
+CORE.API Knowledge (Development).Dynamo.Robert Otani,1
+CORE.API Knowledge (Development).Dynamo.Shannon McMullan,1
+CORE.API Knowledge (Development).Dynamo.Nick Mundell,2
+CORE.API Knowledge (Development).Dynamo.Daniel Segraves,3
+CORE.API Knowledge (Development).Dynamo.Hiram Rodriguez,4
+CORE.API Knowledge (Development).Dynamo.Serena Li,1
+CORE.API Knowledge (Development).Dynamo.Leland Jobson,1
+CORE.API Knowledge (Development).Dynamo.Richard Schmitt,3
+CORE.API Knowledge (Development).Dynamo.Hanshen Sun,1
+CORE.API Knowledge (Development).Dynamo.Sergey Pigach,1
+CORE.API Knowledge (Development).Dynamo.Ben Howes,5
+CORE.API Knowledge (Development).Dynamo.David Mans,1
+CORE.API Knowledge (Development).Dynamo.Charles Portelli,2
+CORE.API Knowledge (Development).Dynamo.Elcin Ertugrul,5
+CORE.API Knowledge (Development).Dynamo.Mike Kero,4
+CORE.API Knowledge (Development).Dynamo.Kenny Tam,2
+CORE.API Knowledge (Development).Dynamo.Dan Reynolds,1
+CORE.API Knowledge (Development).Dynamo.Margaret Wang,1
+CORE.API Knowledge (Development).Dynamo.Emil Poulsen,1
+CORE.API Knowledge (Development).Revit,
+CORE.API Knowledge (Development).Revit.Robert Otani,1
+CORE.API Knowledge (Development).Revit.Shannon McMullan,1
+CORE.API Knowledge (Development).Revit.Nick Mundell,2
+CORE.API Knowledge (Development).Revit.Daniel Segraves,3
+CORE.API Knowledge (Development).Revit.Hiram Rodriguez,4
+CORE.API Knowledge (Development).Revit.Serena Li,2
+CORE.API Knowledge (Development).Revit.Leland Jobson,4
+CORE.API Knowledge (Development).Revit.Richard Schmitt,5
+CORE.API Knowledge (Development).Revit.Hanshen Sun,1
+CORE.API Knowledge (Development).Revit.Sergey Pigach,1
+CORE.API Knowledge (Development).Revit.Ben Howes,5
+CORE.API Knowledge (Development).Revit.David Mans,2
+CORE.API Knowledge (Development).Revit.Charles Portelli,4
+CORE.API Knowledge (Development).Revit.Elcin Ertugrul,4
+CORE.API Knowledge (Development).Revit.Mike Kero,5
+CORE.API Knowledge (Development).Revit.Kenny Tam,4
+CORE.API Knowledge (Development).Revit.Dan Reynolds,1
+CORE.API Knowledge (Development).Revit.Margaret Wang,1
+CORE.API Knowledge (Development).Revit.Emil Poulsen,2
+CORE.API Knowledge (Development).ETABS/SAP,
+CORE.API Knowledge (Development).ETABS/SAP.Robert Otani,1
+CORE.API Knowledge (Development).ETABS/SAP.Shannon McMullan,1
+CORE.API Knowledge (Development).ETABS/SAP.Nick Mundell,1
+CORE.API Knowledge (Development).ETABS/SAP.Daniel Segraves,5
+CORE.API Knowledge (Development).ETABS/SAP.Hiram Rodriguez,2
+CORE.API Knowledge (Development).ETABS/SAP.Serena Li,1
+CORE.API Knowledge (Development).ETABS/SAP.Leland Jobson,1
+CORE.API Knowledge (Development).ETABS/SAP.Richard Schmitt,3
+CORE.API Knowledge (Development).ETABS/SAP.Hanshen Sun,1
+CORE.API Knowledge (Development).ETABS/SAP.Sergey Pigach,1
+CORE.API Knowledge (Development).ETABS/SAP.Ben Howes,2
+CORE.API Knowledge (Development).ETABS/SAP.David Mans,1
+CORE.API Knowledge (Development).ETABS/SAP.Charles Portelli,1
+CORE.API Knowledge (Development).ETABS/SAP.Elcin Ertugrul,5
+CORE.API Knowledge (Development).ETABS/SAP.Mike Kero,4
+CORE.API Knowledge (Development).ETABS/SAP.Kenny Tam,4
+CORE.API Knowledge (Development).ETABS/SAP.Dan Reynolds,4
+CORE.API Knowledge (Development).ETABS/SAP.Margaret Wang,1
+CORE.API Knowledge (Development).ETABS/SAP.Emil Poulsen,2
+CORE.API Knowledge (Development).Strand,
+CORE.API Knowledge (Development).Strand.Robert Otani,1
+CORE.API Knowledge (Development).Strand.Shannon McMullan,1
+CORE.API Knowledge (Development).Strand.Nick Mundell,1
+CORE.API Knowledge (Development).Strand.Daniel Segraves,3
+CORE.API Knowledge (Development).Strand.Hiram Rodriguez,1
+CORE.API Knowledge (Development).Strand.Serena Li,1
+CORE.API Knowledge (Development).Strand.Leland Jobson,1
+CORE.API Knowledge (Development).Strand.Richard Schmitt,1
+CORE.API Knowledge (Development).Strand.Hanshen Sun,1
+CORE.API Knowledge (Development).Strand.Sergey Pigach,1
+CORE.API Knowledge (Development).Strand.Ben Howes,1
+CORE.API Knowledge (Development).Strand.David Mans,1
+CORE.API Knowledge (Development).Strand.Charles Portelli,1
+CORE.API Knowledge (Development).Strand.Elcin Ertugrul,1
+CORE.API Knowledge (Development).Strand.Mike Kero,1
+CORE.API Knowledge (Development).Strand.Kenny Tam,1
+CORE.API Knowledge (Development).Strand.Dan Reynolds,5
+CORE.API Knowledge (Development).Strand.Margaret Wang,1
+CORE.API Knowledge (Development).Strand.Emil Poulsen,1
+CORE.API Knowledge (Development).Konstru,
+CORE.API Knowledge (Development).Konstru.Robert Otani,1
+CORE.API Knowledge (Development).Konstru.Shannon McMullan,1
+CORE.API Knowledge (Development).Konstru.Nick Mundell,1
+CORE.API Knowledge (Development).Konstru.Daniel Segraves,3
+CORE.API Knowledge (Development).Konstru.Hiram Rodriguez,1
+CORE.API Knowledge (Development).Konstru.Serena Li,3
+CORE.API Knowledge (Development).Konstru.Leland Jobson,1
+CORE.API Knowledge (Development).Konstru.Richard Schmitt,1
+CORE.API Knowledge (Development).Konstru.Hanshen Sun,1
+CORE.API Knowledge (Development).Konstru.Sergey Pigach,1
+CORE.API Knowledge (Development).Konstru.Ben Howes,5
+CORE.API Knowledge (Development).Konstru.David Mans,1
+CORE.API Knowledge (Development).Konstru.Charles Portelli,2
+CORE.API Knowledge (Development).Konstru.Elcin Ertugrul,5
+CORE.API Knowledge (Development).Konstru.Mike Kero,1
+CORE.API Knowledge (Development).Konstru.Kenny Tam,5
+CORE.API Knowledge (Development).Konstru.Dan Reynolds,1
+CORE.API Knowledge (Development).Konstru.Margaret Wang,1
+CORE.API Knowledge (Development).Konstru.Emil Poulsen,5
+CORE.API Knowledge (Development).Tekla,
+CORE.API Knowledge (Development).Tekla.Robert Otani,1
+CORE.API Knowledge (Development).Tekla.Shannon McMullan,1
+CORE.API Knowledge (Development).Tekla.Nick Mundell,1
+CORE.API Knowledge (Development).Tekla.Daniel Segraves,2
+CORE.API Knowledge (Development).Tekla.Hiram Rodriguez,1
+CORE.API Knowledge (Development).Tekla.Serena Li,1
+CORE.API Knowledge (Development).Tekla.Leland Jobson,1
+CORE.API Knowledge (Development).Tekla.Richard Schmitt,1
+CORE.API Knowledge (Development).Tekla.Hanshen Sun,1
+CORE.API Knowledge (Development).Tekla.Sergey Pigach,1
+CORE.API Knowledge (Development).Tekla.Ben Howes,2
+CORE.API Knowledge (Development).Tekla.David Mans,1
+CORE.API Knowledge (Development).Tekla.Charles Portelli,1
+CORE.API Knowledge (Development).Tekla.Elcin Ertugrul,3
+CORE.API Knowledge (Development).Tekla.Mike Kero,4
+CORE.API Knowledge (Development).Tekla.Kenny Tam,5
+CORE.API Knowledge (Development).Tekla.Dan Reynolds,1
+CORE.API Knowledge (Development).Tekla.Margaret Wang,1
+CORE.API Knowledge (Development).Tekla.Emil Poulsen,1
+CORE.Research Development (Misc),
+CORE.Research Development (Misc).GIS,
+CORE.Research Development (Misc).GIS.Robert Otani,1
+CORE.Research Development (Misc).GIS.Shannon McMullan,1
+CORE.Research Development (Misc).GIS.Nick Mundell,1
+CORE.Research Development (Misc).GIS.Daniel Segraves,4
+CORE.Research Development (Misc).GIS.Hiram Rodriguez,1
+CORE.Research Development (Misc).GIS.Serena Li,5
+CORE.Research Development (Misc).GIS.Leland Jobson,1
+CORE.Research Development (Misc).GIS.Richard Schmitt,1
+CORE.Research Development (Misc).GIS.Hanshen Sun,4
+CORE.Research Development (Misc).GIS.Sergey Pigach,1
+CORE.Research Development (Misc).GIS.Ben Howes,1
+CORE.Research Development (Misc).GIS.David Mans,1
+CORE.Research Development (Misc).GIS.Charles Portelli,1
+CORE.Research Development (Misc).GIS.Elcin Ertugrul,5
+CORE.Research Development (Misc).GIS.Mike Kero,1
+CORE.Research Development (Misc).GIS.Kenny Tam,1
+CORE.Research Development (Misc).GIS.Dan Reynolds,1
+CORE.Research Development (Misc).GIS.Margaret Wang,1
+CORE.Research Development (Misc).GIS.Emil Poulsen,1
+CORE.Research Development (Misc).Virtual Reality,
+CORE.Research Development (Misc).Virtual Reality.Robert Otani,1
+CORE.Research Development (Misc).Virtual Reality.Shannon McMullan,1
+CORE.Research Development (Misc).Virtual Reality.Nick Mundell,1
+CORE.Research Development (Misc).Virtual Reality.Daniel Segraves,3
+CORE.Research Development (Misc).Virtual Reality.Hiram Rodriguez,4
+CORE.Research Development (Misc).Virtual Reality.Serena Li,3
+CORE.Research Development (Misc).Virtual Reality.Leland Jobson,1
+CORE.Research Development (Misc).Virtual Reality.Richard Schmitt,1
+CORE.Research Development (Misc).Virtual Reality.Hanshen Sun,4
+CORE.Research Development (Misc).Virtual Reality.Sergey Pigach,2
+CORE.Research Development (Misc).Virtual Reality.Ben Howes,1
+CORE.Research Development (Misc).Virtual Reality.David Mans,1
+CORE.Research Development (Misc).Virtual Reality.Charles Portelli,2
+CORE.Research Development (Misc).Virtual Reality.Elcin Ertugrul,4
+CORE.Research Development (Misc).Virtual Reality.Mike Kero,1
+CORE.Research Development (Misc).Virtual Reality.Kenny Tam,1
+CORE.Research Development (Misc).Virtual Reality.Dan Reynolds,1
+CORE.Research Development (Misc).Virtual Reality.Margaret Wang,1
+CORE.Research Development (Misc).Virtual Reality.Emil Poulsen,2
+CORE.Research Development (Misc).Augmented Reality,
+CORE.Research Development (Misc).Augmented Reality.Robert Otani,1
+CORE.Research Development (Misc).Augmented Reality.Shannon McMullan,1
+CORE.Research Development (Misc).Augmented Reality.Nick Mundell,1
+CORE.Research Development (Misc).Augmented Reality.Daniel Segraves,3
+CORE.Research Development (Misc).Augmented Reality.Hiram Rodriguez,4
+CORE.Research Development (Misc).Augmented Reality.Serena Li,1
+CORE.Research Development (Misc).Augmented Reality.Leland Jobson,1
+CORE.Research Development (Misc).Augmented Reality.Richard Schmitt,1
+CORE.Research Development (Misc).Augmented Reality.Hanshen Sun,1
+CORE.Research Development (Misc).Augmented Reality.Sergey Pigach,1
+CORE.Research Development (Misc).Augmented Reality.Ben Howes,1
+CORE.Research Development (Misc).Augmented Reality.David Mans,1
+CORE.Research Development (Misc).Augmented Reality.Charles Portelli,2
+CORE.Research Development (Misc).Augmented Reality.Elcin Ertugrul,1
+CORE.Research Development (Misc).Augmented Reality.Mike Kero,1
+CORE.Research Development (Misc).Augmented Reality.Kenny Tam,1
+CORE.Research Development (Misc).Augmented Reality.Dan Reynolds,1
+CORE.Research Development (Misc).Augmented Reality.Margaret Wang,1
+CORE.Research Development (Misc).Augmented Reality.Emil Poulsen,2
+CORE.Research Development (Misc).Photogrammetry,
+CORE.Research Development (Misc).Photogrammetry.Robert Otani,1
+CORE.Research Development (Misc).Photogrammetry.Shannon McMullan,1
+CORE.Research Development (Misc).Photogrammetry.Nick Mundell,4
+CORE.Research Development (Misc).Photogrammetry.Daniel Segraves,4
+CORE.Research Development (Misc).Photogrammetry.Hiram Rodriguez,5
+CORE.Research Development (Misc).Photogrammetry.Serena Li,2
+CORE.Research Development (Misc).Photogrammetry.Leland Jobson,1
+CORE.Research Development (Misc).Photogrammetry.Richard Schmitt,2
+CORE.Research Development (Misc).Photogrammetry.Hanshen Sun,5
+CORE.Research Development (Misc).Photogrammetry.Sergey Pigach,2
+CORE.Research Development (Misc).Photogrammetry.Ben Howes,1
+CORE.Research Development (Misc).Photogrammetry.David Mans,1
+CORE.Research Development (Misc).Photogrammetry.Charles Portelli,2
+CORE.Research Development (Misc).Photogrammetry.Elcin Ertugrul,1
+CORE.Research Development (Misc).Photogrammetry.Mike Kero,1
+CORE.Research Development (Misc).Photogrammetry.Kenny Tam,1
+CORE.Research Development (Misc).Photogrammetry.Dan Reynolds,1
+CORE.Research Development (Misc).Photogrammetry.Margaret Wang,1
+CORE.Research Development (Misc).Photogrammetry.Emil Poulsen,1
+CORE.Research Development (Misc).Drones,
+CORE.Research Development (Misc).Drones.Robert Otani,1
+CORE.Research Development (Misc).Drones.Shannon McMullan,1
+CORE.Research Development (Misc).Drones.Nick Mundell,3
+CORE.Research Development (Misc).Drones.Daniel Segraves,3
+CORE.Research Development (Misc).Drones.Hiram Rodriguez,5
+CORE.Research Development (Misc).Drones.Serena Li,1
+CORE.Research Development (Misc).Drones.Leland Jobson,1
+CORE.Research Development (Misc).Drones.Richard Schmitt,1
+CORE.Research Development (Misc).Drones.Hanshen Sun,5
+CORE.Research Development (Misc).Drones.Sergey Pigach,2
+CORE.Research Development (Misc).Drones.Ben Howes,1
+CORE.Research Development (Misc).Drones.David Mans,1
+CORE.Research Development (Misc).Drones.Charles Portelli,2
+CORE.Research Development (Misc).Drones.Elcin Ertugrul,1
+CORE.Research Development (Misc).Drones.Mike Kero,1
+CORE.Research Development (Misc).Drones.Kenny Tam,1
+CORE.Research Development (Misc).Drones.Dan Reynolds,1
+CORE.Research Development (Misc).Drones.Margaret Wang,1
+CORE.Research Development (Misc).Drones.Emil Poulsen,2
+CORE.Research Development (Misc).IoT,
+CORE.Research Development (Misc).IoT.Robert Otani,1
+CORE.Research Development (Misc).IoT.Shannon McMullan,1
+CORE.Research Development (Misc).IoT.Nick Mundell,1
+CORE.Research Development (Misc).IoT.Daniel Segraves,4
+CORE.Research Development (Misc).IoT.Hiram Rodriguez,2
+CORE.Research Development (Misc).IoT.Serena Li,1
+CORE.Research Development (Misc).IoT.Leland Jobson,1
+CORE.Research Development (Misc).IoT.Richard Schmitt,2
+CORE.Research Development (Misc).IoT.Hanshen Sun,4
+CORE.Research Development (Misc).IoT.Sergey Pigach,1
+CORE.Research Development (Misc).IoT.Ben Howes,1
+CORE.Research Development (Misc).IoT.David Mans,1
+CORE.Research Development (Misc).IoT.Charles Portelli,2
+CORE.Research Development (Misc).IoT.Elcin Ertugrul,1
+CORE.Research Development (Misc).IoT.Mike Kero,1
+CORE.Research Development (Misc).IoT.Kenny Tam,1
+CORE.Research Development (Misc).IoT.Dan Reynolds,1
+CORE.Research Development (Misc).IoT.Margaret Wang,4
+CORE.Research Development (Misc).IoT.Emil Poulsen,1
+CORE.Design (Marketing/Graphics),
+CORE.Design (Marketing/Graphics).Adobe After Effects,
+CORE.Design (Marketing/Graphics).Adobe After Effects.Robert Otani,1
+CORE.Design (Marketing/Graphics).Adobe After Effects.Shannon McMullan,1
+CORE.Design (Marketing/Graphics).Adobe After Effects.Nick Mundell,3
+CORE.Design (Marketing/Graphics).Adobe After Effects.Daniel Segraves,4
+CORE.Design (Marketing/Graphics).Adobe After Effects.Hiram Rodriguez,1
+CORE.Design (Marketing/Graphics).Adobe After Effects.Serena Li,3
+CORE.Design (Marketing/Graphics).Adobe After Effects.Leland Jobson,1
+CORE.Design (Marketing/Graphics).Adobe After Effects.Richard Schmitt,1
+CORE.Design (Marketing/Graphics).Adobe After Effects.Hanshen Sun,2
+CORE.Design (Marketing/Graphics).Adobe After Effects.Sergey Pigach,4
+CORE.Design (Marketing/Graphics).Adobe After Effects.Ben Howes,1
+CORE.Design (Marketing/Graphics).Adobe After Effects.David Mans,1
+CORE.Design (Marketing/Graphics).Adobe After Effects.Charles Portelli,5
+CORE.Design (Marketing/Graphics).Adobe After Effects.Elcin Ertugrul,1
+CORE.Design (Marketing/Graphics).Adobe After Effects.Mike Kero,1
+CORE.Design (Marketing/Graphics).Adobe After Effects.Kenny Tam,1
+CORE.Design (Marketing/Graphics).Adobe After Effects.Dan Reynolds,1
+CORE.Design (Marketing/Graphics).Adobe After Effects.Margaret Wang,1
+CORE.Design (Marketing/Graphics).Adobe After Effects.Emil Poulsen,1
+CORE.Design (Marketing/Graphics).Adobe Illustrator,
+CORE.Design (Marketing/Graphics).Adobe Illustrator.Robert Otani,1
+CORE.Design (Marketing/Graphics).Adobe Illustrator.Shannon McMullan,2
+CORE.Design (Marketing/Graphics).Adobe Illustrator.Nick Mundell,3
+CORE.Design (Marketing/Graphics).Adobe Illustrator.Daniel Segraves,5
+CORE.Design (Marketing/Graphics).Adobe Illustrator.Hiram Rodriguez,1
+CORE.Design (Marketing/Graphics).Adobe Illustrator.Serena Li,5
+CORE.Design (Marketing/Graphics).Adobe Illustrator.Leland Jobson,1
+CORE.Design (Marketing/Graphics).Adobe Illustrator.Richard Schmitt,4
+CORE.Design (Marketing/Graphics).Adobe Illustrator.Hanshen Sun,5
+CORE.Design (Marketing/Graphics).Adobe Illustrator.Sergey Pigach,5
+CORE.Design (Marketing/Graphics).Adobe Illustrator.Ben Howes,1
+CORE.Design (Marketing/Graphics).Adobe Illustrator.David Mans,1
+CORE.Design (Marketing/Graphics).Adobe Illustrator.Charles Portelli,5
+CORE.Design (Marketing/Graphics).Adobe Illustrator.Elcin Ertugrul,1
+CORE.Design (Marketing/Graphics).Adobe Illustrator.Mike Kero,1
+CORE.Design (Marketing/Graphics).Adobe Illustrator.Kenny Tam,1
+CORE.Design (Marketing/Graphics).Adobe Illustrator.Dan Reynolds,1
+CORE.Design (Marketing/Graphics).Adobe Illustrator.Margaret Wang,4
+CORE.Design (Marketing/Graphics).Adobe Illustrator.Emil Poulsen,4
+CORE.Design (Marketing/Graphics).Adobe Photoshop,
+CORE.Design (Marketing/Graphics).Adobe Photoshop.Robert Otani,1
+CORE.Design (Marketing/Graphics).Adobe Photoshop.Shannon McMullan,2
+CORE.Design (Marketing/Graphics).Adobe Photoshop.Nick Mundell,3
+CORE.Design (Marketing/Graphics).Adobe Photoshop.Daniel Segraves,5
+CORE.Design (Marketing/Graphics).Adobe Photoshop.Hiram Rodriguez,1
+CORE.Design (Marketing/Graphics).Adobe Photoshop.Serena Li,5
+CORE.Design (Marketing/Graphics).Adobe Photoshop.Leland Jobson,1
+CORE.Design (Marketing/Graphics).Adobe Photoshop.Richard Schmitt,4
+CORE.Design (Marketing/Graphics).Adobe Photoshop.Hanshen Sun,5
+CORE.Design (Marketing/Graphics).Adobe Photoshop.Sergey Pigach,5
+CORE.Design (Marketing/Graphics).Adobe Photoshop.Ben Howes,1
+CORE.Design (Marketing/Graphics).Adobe Photoshop.David Mans,1
+CORE.Design (Marketing/Graphics).Adobe Photoshop.Charles Portelli,4
+CORE.Design (Marketing/Graphics).Adobe Photoshop.Elcin Ertugrul,1
+CORE.Design (Marketing/Graphics).Adobe Photoshop.Mike Kero,1
+CORE.Design (Marketing/Graphics).Adobe Photoshop.Kenny Tam,1
+CORE.Design (Marketing/Graphics).Adobe Photoshop.Dan Reynolds,1
+CORE.Design (Marketing/Graphics).Adobe Photoshop.Margaret Wang,3
+CORE.Design (Marketing/Graphics).Adobe Photoshop.Emil Poulsen,4
+CORE.Design (Marketing/Graphics).Adobe InDesign,
+CORE.Design (Marketing/Graphics).Adobe InDesign.Robert Otani,1
+CORE.Design (Marketing/Graphics).Adobe InDesign.Shannon McMullan,2
+CORE.Design (Marketing/Graphics).Adobe InDesign.Nick Mundell,3
+CORE.Design (Marketing/Graphics).Adobe InDesign.Daniel Segraves,5
+CORE.Design (Marketing/Graphics).Adobe InDesign.Hiram Rodriguez,1
+CORE.Design (Marketing/Graphics).Adobe InDesign.Serena Li,5
+CORE.Design (Marketing/Graphics).Adobe InDesign.Leland Jobson,1
+CORE.Design (Marketing/Graphics).Adobe InDesign.Richard Schmitt,1
+CORE.Design (Marketing/Graphics).Adobe InDesign.Hanshen Sun,5
+CORE.Design (Marketing/Graphics).Adobe InDesign.Sergey Pigach,4
+CORE.Design (Marketing/Graphics).Adobe InDesign.Ben Howes,1
+CORE.Design (Marketing/Graphics).Adobe InDesign.David Mans,1
+CORE.Design (Marketing/Graphics).Adobe InDesign.Charles Portelli,5
+CORE.Design (Marketing/Graphics).Adobe InDesign.Elcin Ertugrul,1
+CORE.Design (Marketing/Graphics).Adobe InDesign.Mike Kero,1
+CORE.Design (Marketing/Graphics).Adobe InDesign.Kenny Tam,1
+CORE.Design (Marketing/Graphics).Adobe InDesign.Dan Reynolds,1
+CORE.Design (Marketing/Graphics).Adobe InDesign.Margaret Wang,4
+CORE.Design (Marketing/Graphics).Adobe InDesign.Emil Poulsen,4
+CORE.Design (Marketing/Graphics).Adobe Premier Pro,
+CORE.Design (Marketing/Graphics).Adobe Premier Pro.Robert Otani,
+CORE.Design (Marketing/Graphics).Adobe Premier Pro.Shannon McMullan,2
+CORE.Design (Marketing/Graphics).Adobe Premier Pro.Nick Mundell,
+CORE.Design (Marketing/Graphics).Adobe Premier Pro.Daniel Segraves,
+CORE.Design (Marketing/Graphics).Adobe Premier Pro.Hiram Rodriguez,
+CORE.Design (Marketing/Graphics).Adobe Premier Pro.Serena Li,
+CORE.Design (Marketing/Graphics).Adobe Premier Pro.Leland Jobson,
+CORE.Design (Marketing/Graphics).Adobe Premier Pro.Richard Schmitt,1
+CORE.Design (Marketing/Graphics).Adobe Premier Pro.Hanshen Sun,
+CORE.Design (Marketing/Graphics).Adobe Premier Pro.Sergey Pigach,
+CORE.Design (Marketing/Graphics).Adobe Premier Pro.Ben Howes,
+CORE.Design (Marketing/Graphics).Adobe Premier Pro.David Mans,
+CORE.Design (Marketing/Graphics).Adobe Premier Pro.Charles Portelli,
+CORE.Design (Marketing/Graphics).Adobe Premier Pro.Elcin Ertugrul,
+CORE.Design (Marketing/Graphics).Adobe Premier Pro.Mike Kero,
+CORE.Design (Marketing/Graphics).Adobe Premier Pro.Kenny Tam,
+CORE.Design (Marketing/Graphics).Adobe Premier Pro.Dan Reynolds,
+CORE.Design (Marketing/Graphics).Adobe Premier Pro.Margaret Wang,
+CORE.Design (Marketing/Graphics).Adobe Premier Pro.Emil Poulsen,
+CORE.Professional Knowledge,
+CORE.Professional Knowledge.Team Management,
+CORE.Professional Knowledge.Team Management.Robert Otani,0
+CORE.Professional Knowledge.Team Management.Shannon McMullan,3
+CORE.Professional Knowledge.Team Management.Nick Mundell,0
+CORE.Professional Knowledge.Team Management.Daniel Segraves,0
+CORE.Professional Knowledge.Team Management.Hiram Rodriguez,0
+CORE.Professional Knowledge.Team Management.Serena Li,0
+CORE.Professional Knowledge.Team Management.Leland Jobson,0
+CORE.Professional Knowledge.Team Management.Richard Schmitt,3
+CORE.Professional Knowledge.Team Management.Hanshen Sun,2
+CORE.Professional Knowledge.Team Management.Sergey Pigach,2
+CORE.Professional Knowledge.Team Management.Ben Howes,0
+CORE.Professional Knowledge.Team Management.David Mans,0
+CORE.Professional Knowledge.Team Management.Charles Portelli,0
+CORE.Professional Knowledge.Team Management.Elcin Ertugrul,0
+CORE.Professional Knowledge.Team Management.Mike Kero,0
+CORE.Professional Knowledge.Team Management.Kenny Tam,0
+CORE.Professional Knowledge.Team Management.Dan Reynolds,0
+CORE.Professional Knowledge.Team Management.Margaret Wang,0
+CORE.Professional Knowledge.Team Management.Emil Poulsen,0
+CORE.Professional Knowledge.Event Management,
+CORE.Professional Knowledge.Event Management.Robert Otani,0
+CORE.Professional Knowledge.Event Management.Shannon McMullan,5
+CORE.Professional Knowledge.Event Management.Nick Mundell,0
+CORE.Professional Knowledge.Event Management.Daniel Segraves,0
+CORE.Professional Knowledge.Event Management.Hiram Rodriguez,0
+CORE.Professional Knowledge.Event Management.Serena Li,0
+CORE.Professional Knowledge.Event Management.Leland Jobson,0
+CORE.Professional Knowledge.Event Management.Richard Schmitt,2
+CORE.Professional Knowledge.Event Management.Hanshen Sun,2
+CORE.Professional Knowledge.Event Management.Sergey Pigach,2
+CORE.Professional Knowledge.Event Management.Ben Howes,0
+CORE.Professional Knowledge.Event Management.David Mans,0
+CORE.Professional Knowledge.Event Management.Charles Portelli,0
+CORE.Professional Knowledge.Event Management.Elcin Ertugrul,0
+CORE.Professional Knowledge.Event Management.Mike Kero,0
+CORE.Professional Knowledge.Event Management.Kenny Tam,0
+CORE.Professional Knowledge.Event Management.Dan Reynolds,0
+CORE.Professional Knowledge.Event Management.Margaret Wang,0
+CORE.Professional Knowledge.Event Management.Emil Poulsen,0
+CORE.Professional Knowledge.Internal Communications,
+CORE.Professional Knowledge.Internal Communications.Robert Otani,0
+CORE.Professional Knowledge.Internal Communications.Shannon McMullan,4
+CORE.Professional Knowledge.Internal Communications.Nick Mundell,0
+CORE.Professional Knowledge.Internal Communications.Daniel Segraves,0
+CORE.Professional Knowledge.Internal Communications.Hiram Rodriguez,0
+CORE.Professional Knowledge.Internal Communications.Serena Li,0
+CORE.Professional Knowledge.Internal Communications.Leland Jobson,0
+CORE.Professional Knowledge.Internal Communications.Richard Schmitt,4
+CORE.Professional Knowledge.Internal Communications.Hanshen Sun,4
+CORE.Professional Knowledge.Internal Communications.Sergey Pigach,4
+CORE.Professional Knowledge.Internal Communications.Ben Howes,0
+CORE.Professional Knowledge.Internal Communications.David Mans,0
+CORE.Professional Knowledge.Internal Communications.Charles Portelli,0
+CORE.Professional Knowledge.Internal Communications.Elcin Ertugrul,0
+CORE.Professional Knowledge.Internal Communications.Mike Kero,0
+CORE.Professional Knowledge.Internal Communications.Kenny Tam,0
+CORE.Professional Knowledge.Internal Communications.Dan Reynolds,0
+CORE.Professional Knowledge.Internal Communications.Margaret Wang,0
+CORE.Professional Knowledge.Internal Communications.Emil Poulsen,0
+CORE.Professional Knowledge.External Communications,
+CORE.Professional Knowledge.External Communications.Robert Otani,0
+CORE.Professional Knowledge.External Communications.Shannon McMullan,4
+CORE.Professional Knowledge.External Communications.Nick Mundell,0
+CORE.Professional Knowledge.External Communications.Daniel Segraves,0
+CORE.Professional Knowledge.External Communications.Hiram Rodriguez,0
+CORE.Professional Knowledge.External Communications.Serena Li,0
+CORE.Professional Knowledge.External Communications.Leland Jobson,0
+CORE.Professional Knowledge.External Communications.Richard Schmitt,4
+CORE.Professional Knowledge.External Communications.Hanshen Sun,3
+CORE.Professional Knowledge.External Communications.Sergey Pigach,3
+CORE.Professional Knowledge.External Communications.Ben Howes,0
+CORE.Professional Knowledge.External Communications.David Mans,0
+CORE.Professional Knowledge.External Communications.Charles Portelli,0
+CORE.Professional Knowledge.External Communications.Elcin Ertugrul,0
+CORE.Professional Knowledge.External Communications.Mike Kero,0
+CORE.Professional Knowledge.External Communications.Kenny Tam,0
+CORE.Professional Knowledge.External Communications.Dan Reynolds,0
+CORE.Professional Knowledge.External Communications.Margaret Wang,0
+CORE.Professional Knowledge.External Communications.Emil Poulsen,0
+CORE.Professional Knowledge.Making Presentations,
+CORE.Professional Knowledge.Making Presentations.Robert Otani,0
+CORE.Professional Knowledge.Making Presentations.Shannon McMullan,2
+CORE.Professional Knowledge.Making Presentations.Nick Mundell,0
+CORE.Professional Knowledge.Making Presentations.Daniel Segraves,0
+CORE.Professional Knowledge.Making Presentations.Hiram Rodriguez,0
+CORE.Professional Knowledge.Making Presentations.Serena Li,0
+CORE.Professional Knowledge.Making Presentations.Leland Jobson,0
+CORE.Professional Knowledge.Making Presentations.Richard Schmitt,4
+CORE.Professional Knowledge.Making Presentations.Hanshen Sun,4
+CORE.Professional Knowledge.Making Presentations.Sergey Pigach,4
+CORE.Professional Knowledge.Making Presentations.Ben Howes,0
+CORE.Professional Knowledge.Making Presentations.David Mans,0
+CORE.Professional Knowledge.Making Presentations.Charles Portelli,0
+CORE.Professional Knowledge.Making Presentations.Elcin Ertugrul,0
+CORE.Professional Knowledge.Making Presentations.Mike Kero,0
+CORE.Professional Knowledge.Making Presentations.Kenny Tam,0
+CORE.Professional Knowledge.Making Presentations.Dan Reynolds,0
+CORE.Professional Knowledge.Making Presentations.Margaret Wang,0
+CORE.Professional Knowledge.Making Presentations.Emil Poulsen,0
+CORE.Professional Knowledge.Giving Presentations,
+CORE.Professional Knowledge.Giving Presentations.Robert Otani,0
+CORE.Professional Knowledge.Giving Presentations.Shannon McMullan,2
+CORE.Professional Knowledge.Giving Presentations.Nick Mundell,0
+CORE.Professional Knowledge.Giving Presentations.Daniel Segraves,0
+CORE.Professional Knowledge.Giving Presentations.Hiram Rodriguez,0
+CORE.Professional Knowledge.Giving Presentations.Serena Li,0
+CORE.Professional Knowledge.Giving Presentations.Leland Jobson,0
+CORE.Professional Knowledge.Giving Presentations.Richard Schmitt,4
+CORE.Professional Knowledge.Giving Presentations.Hanshen Sun,3
+CORE.Professional Knowledge.Giving Presentations.Sergey Pigach,3
+CORE.Professional Knowledge.Giving Presentations.Ben Howes,0
+CORE.Professional Knowledge.Giving Presentations.David Mans,0
+CORE.Professional Knowledge.Giving Presentations.Charles Portelli,0
+CORE.Professional Knowledge.Giving Presentations.Elcin Ertugrul,0
+CORE.Professional Knowledge.Giving Presentations.Mike Kero,0
+CORE.Professional Knowledge.Giving Presentations.Kenny Tam,0
+CORE.Professional Knowledge.Giving Presentations.Dan Reynolds,0
+CORE.Professional Knowledge.Giving Presentations.Margaret Wang,0
+CORE.Professional Knowledge.Giving Presentations.Emil Poulsen,0
+CORE.Professional Knowledge.Social Media,
+CORE.Professional Knowledge.Social Media.Robert Otani,0
+CORE.Professional Knowledge.Social Media.Shannon McMullan,3
+CORE.Professional Knowledge.Social Media.Nick Mundell,0
+CORE.Professional Knowledge.Social Media.Daniel Segraves,0
+CORE.Professional Knowledge.Social Media.Hiram Rodriguez,0
+CORE.Professional Knowledge.Social Media.Serena Li,0
+CORE.Professional Knowledge.Social Media.Leland Jobson,0
+CORE.Professional Knowledge.Social Media.Richard Schmitt,1
+CORE.Professional Knowledge.Social Media.Hanshen Sun,4
+CORE.Professional Knowledge.Social Media.Sergey Pigach,3
+CORE.Professional Knowledge.Social Media.Ben Howes,0
+CORE.Professional Knowledge.Social Media.David Mans,0
+CORE.Professional Knowledge.Social Media.Charles Portelli,0
+CORE.Professional Knowledge.Social Media.Elcin Ertugrul,0
+CORE.Professional Knowledge.Social Media.Mike Kero,0
+CORE.Professional Knowledge.Social Media.Kenny Tam,0
+CORE.Professional Knowledge.Social Media.Dan Reynolds,0
+CORE.Professional Knowledge.Social Media.Margaret Wang,0
+CORE.Professional Knowledge.Social Media.Emil Poulsen,0
+CORE.Professional Knowledge.Documentation,
+CORE.Professional Knowledge.Documentation.Robert Otani,0
+CORE.Professional Knowledge.Documentation.Shannon McMullan,1
+CORE.Professional Knowledge.Documentation.Nick Mundell,0
+CORE.Professional Knowledge.Documentation.Daniel Segraves,0
+CORE.Professional Knowledge.Documentation.Hiram Rodriguez,0
+CORE.Professional Knowledge.Documentation.Serena Li,0
+CORE.Professional Knowledge.Documentation.Leland Jobson,0
+CORE.Professional Knowledge.Documentation.Richard Schmitt,3
+CORE.Professional Knowledge.Documentation.Hanshen Sun,4
+CORE.Professional Knowledge.Documentation.Sergey Pigach,4
+CORE.Professional Knowledge.Documentation.Ben Howes,0
+CORE.Professional Knowledge.Documentation.David Mans,0
+CORE.Professional Knowledge.Documentation.Charles Portelli,0
+CORE.Professional Knowledge.Documentation.Elcin Ertugrul,0
+CORE.Professional Knowledge.Documentation.Mike Kero,0
+CORE.Professional Knowledge.Documentation.Kenny Tam,0
+CORE.Professional Knowledge.Documentation.Dan Reynolds,0
+CORE.Professional Knowledge.Documentation.Margaret Wang,0
+CORE.Professional Knowledge.Documentation.Emil Poulsen,0
+CORE.Professional Knowledge.Blog Writing,
+CORE.Professional Knowledge.Blog Writing.Robert Otani,0
+CORE.Professional Knowledge.Blog Writing.Shannon McMullan,4
+CORE.Professional Knowledge.Blog Writing.Nick Mundell,0
+CORE.Professional Knowledge.Blog Writing.Daniel Segraves,0
+CORE.Professional Knowledge.Blog Writing.Hiram Rodriguez,0
+CORE.Professional Knowledge.Blog Writing.Serena Li,0
+CORE.Professional Knowledge.Blog Writing.Leland Jobson,0
+CORE.Professional Knowledge.Blog Writing.Richard Schmitt,3
+CORE.Professional Knowledge.Blog Writing.Hanshen Sun,4
+CORE.Professional Knowledge.Blog Writing.Sergey Pigach,4
+CORE.Professional Knowledge.Blog Writing.Ben Howes,0
+CORE.Professional Knowledge.Blog Writing.David Mans,0
+CORE.Professional Knowledge.Blog Writing.Charles Portelli,0
+CORE.Professional Knowledge.Blog Writing.Elcin Ertugrul,0
+CORE.Professional Knowledge.Blog Writing.Mike Kero,0
+CORE.Professional Knowledge.Blog Writing.Kenny Tam,0
+CORE.Professional Knowledge.Blog Writing.Dan Reynolds,0
+CORE.Professional Knowledge.Blog Writing.Margaret Wang,0
+CORE.Professional Knowledge.Blog Writing.Emil Poulsen,0
+CORE.Professional Knowledge.Academic Writing,
+CORE.Professional Knowledge.Academic Writing.Robert Otani,0
+CORE.Professional Knowledge.Academic Writing.Shannon McMullan,4
+CORE.Professional Knowledge.Academic Writing.Nick Mundell,0
+CORE.Professional Knowledge.Academic Writing.Daniel Segraves,0
+CORE.Professional Knowledge.Academic Writing.Hiram Rodriguez,0
+CORE.Professional Knowledge.Academic Writing.Serena Li,0
+CORE.Professional Knowledge.Academic Writing.Leland Jobson,0
+CORE.Professional Knowledge.Academic Writing.Richard Schmitt,1
+CORE.Professional Knowledge.Academic Writing.Hanshen Sun,2
+CORE.Professional Knowledge.Academic Writing.Sergey Pigach,5
+CORE.Professional Knowledge.Academic Writing.Ben Howes,0
+CORE.Professional Knowledge.Academic Writing.David Mans,0
+CORE.Professional Knowledge.Academic Writing.Charles Portelli,0
+CORE.Professional Knowledge.Academic Writing.Elcin Ertugrul,0
+CORE.Professional Knowledge.Academic Writing.Mike Kero,0
+CORE.Professional Knowledge.Academic Writing.Kenny Tam,0
+CORE.Professional Knowledge.Academic Writing.Dan Reynolds,0
+CORE.Professional Knowledge.Academic Writing.Margaret Wang,0
+CORE.Professional Knowledge.Academic Writing.Emil Poulsen,0
