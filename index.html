@@ -28,6 +28,8 @@
   pointer-events: none;
 }
 
+body { margin:auto;;position:fixed;top:0;right:0;bottom:0;left:0; }
+
 </style>
 <svg width="960" height="960"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -137,7 +139,7 @@ d3.csv("Github_skills.csv", function(error, root) {
         .on("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
         .on("end", function(d) { if (d.parent !== focus) this.style.display = "inline"; });
   }
-  
+
 
   function zoomTo(v) {
     var k = diameter / v[2]; view = v;
