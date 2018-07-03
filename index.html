@@ -44,6 +44,7 @@ var stratify = d3.stratify()
 var svg = d3.select("#chart").append("svg"),
     margin = 20,
     diameter = +svg.attr("width"),
+    // g = svg.append("g").attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")")
     g = svg.append("g").attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
 
 svg.attr("align","center");
