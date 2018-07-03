@@ -28,7 +28,7 @@
 }
 
 </style>
-<svg width="960" height="960"></svg>
+<svg width="1600" height="960"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
@@ -39,7 +39,7 @@ var stratify = d3.stratify()
 var svg = d3.select("svg"),
     margin = 30,
     diameter = +svg.attr("width"),
-    g = svg.append("g").attr("transform", "translate(" + diameter + "," + diameter / 2 + ")");
+    g = svg.append("g").attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
 
 var color = d3.scaleLinear()
     .domain([-1, 5])
