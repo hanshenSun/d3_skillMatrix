@@ -1,34 +1,3 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
-<style>
-
-.node {
-  cursor: pointer;
-}
-
-.node:hover {
-  stroke: #000;
-  stroke-width: 1.5px;
-}
-
-.node--leaf {
-  fill: white;
-}
-
-.label {
-  font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-anchor: middle;
-  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
-}
-
-.label,
-.node--root,
-.node--leaf {
-  pointer-events: none;
-}
-
-</style>
-<svg width="960" height="960"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
@@ -56,7 +25,7 @@ var pack = d3.pack()
     .padding(2);
 
 
-d3.csv("https://s3.amazonaws.com/corewebsite-apps/skillMatrix/Github_skills.csv", function(error, root) {
+d3.csv("Github_skills.csv", function(error, root) {
   if (error) throw error;
 
 
