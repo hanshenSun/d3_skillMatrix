@@ -46,7 +46,7 @@ var stratify = d3.stratify()
     .parentId(function(d) { return d.id.substring(0, d.id.lastIndexOf(".")); });
 
 var svg = d3.select("svg"),
-    diameter = +svg.attr("width"),
+    //diameter = +svg.attr("width"),
     g = svg.append("g").attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
 var color = d3.scaleLinear()
@@ -80,6 +80,7 @@ d3.csv("https://raw.githubusercontent.com/hanshenSun/d3_skillMatrix/master/Githu
   var circle = g.selectAll("circle")
     .data(nodes)
     .enter().append("circle")
+      .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
   		.attr("fill-opacity", function(d){return (d.depth ==0) ? 0:0.5})
   		.attr("opacity", function(d) {return (d.depth ==3) ? (d.value <2) ? 0: 1 : 1})
 
@@ -139,7 +140,7 @@ d3.csv("https://raw.githubusercontent.com/hanshenSun/d3_skillMatrix/master/Githu
   }
 
   function zoomTo(v) {
-    var k = diameter / v[2]; view = v;
+    var k = width / v[2]; view = v;
     node.attr("transform", function(d) { return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")"; });
     circle.attr("r", function(d) { return d.r * k; });
   }
