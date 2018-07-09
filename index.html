@@ -29,8 +29,6 @@
 }
 </style>
 
-<div id=svgDiv style='width:100%;height:100%;overflow:hidden;position:absolute;top:0px;left:0px;'></div>
-
 
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
@@ -49,7 +47,7 @@ var stratify = d3.stratify()
 
 var svg = d3.select("svg"),
     diameter = +svg.attr("width"),
-    g = svg.append("g").attr("transform", "translate(" + height / 2 + "," + height / 2 + ")");
+    g = svg.append("g").attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
 var color = d3.scaleLinear()
     .domain([-1, 5])
@@ -62,7 +60,7 @@ var colorBall = d3.scaleLinear()
     .interpolate(d3.interpolateRgb);
 
 var pack = d3.pack()
-    .size([height - margin, height - margin])
+    .size([height * 0.6, height * 0.6])
     .padding(2);
 
 
