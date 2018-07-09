@@ -80,7 +80,6 @@ d3.csv("https://raw.githubusercontent.com/hanshenSun/d3_skillMatrix/master/Githu
   var circle = g.selectAll("circle")
     .data(nodes)
     .enter().append("circle")
-      .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
   		.attr("fill-opacity", function(d){return (d.depth ==0) ? 0:0.5})
   		.attr("opacity", function(d) {return (d.depth ==3) ? (d.value <2) ? 0: 1 : 1})
 
