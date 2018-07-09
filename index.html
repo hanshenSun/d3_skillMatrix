@@ -37,6 +37,7 @@
 
 var width = window.innerWidth;
 var height = window.innerHeight;
+var margin = 30;
 
 var svg = d3.select("body").append("svg")
 		.attr("width", width)
@@ -47,9 +48,8 @@ var stratify = d3.stratify()
     .parentId(function(d) { return d.id.substring(0, d.id.lastIndexOf(".")); });
 
 var svg = d3.select("svg"),
-    margin = 30,
     diameter = +svg.attr("width"),
-    g = svg.append("g").attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+    g = svg.append("g").attr("transform", "translate(" + height / 2 + "," + height / 2 + ")");
 
 var color = d3.scaleLinear()
     .domain([-1, 5])
@@ -62,7 +62,7 @@ var colorBall = d3.scaleLinear()
     .interpolate(d3.interpolateRgb);
 
 var pack = d3.pack()
-    .size([diameter - margin, diameter - margin])
+    .size([height - margin, height - margin])
     .padding(2);
 
 
